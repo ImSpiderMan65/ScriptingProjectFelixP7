@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class ColorChanger : MonoBehaviour
 {
+   
+
     // Start is called before the first frame update
     void Start()
     {
-        
+      
     }
 
     // Update is called once per frame
@@ -26,4 +28,6 @@ public class ColorChanger : MonoBehaviour
             GetComponent<Renderer>().material.color= Color.blue;
         }
     }
+
+    
 }

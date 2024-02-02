@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Transform : MonoBehaviour
+public class TransformAndRotate : MonoBehaviour
 {
     public float moveSpeed = 10f;
     public float turnSpeed = 50f; 

@@ -9,7 +9,7 @@ public class Game : MonoBehaviour
     {
         Player myPlayer = new Player();
 
-        
+        //Properties can be used just like variables
         myPlayer.Experience = 5;
         int x = myPlayer.Experience;
     }

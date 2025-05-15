@@ -11,7 +11,7 @@ public class Player2 : MonoBehaviour
         playerCount++;
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         
